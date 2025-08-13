@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body {
+    background-color: #c0faf0;
+}
+
 .background {
     background-image: url(./recipes/food.jpg);
     align-items: center;
@@ -11,8 +15,101 @@
     padding: 350px;
     font-size: 40px;
     color: rgb(102, 2, 22);
+    margin-bottom: 2px;
 }
 
-ul li {
-    display: inline-block;
+.recipe-1 a {
+    background-image: url(https://www.australianeggs.org.au/assets/Uploads/Egg-fried-rice-2__ScaleWidthWzEyMDBd_ExtRewriteWyJqcGciLCJhdmlmIl0_QualityWzYwXQ.avif);
+    display: inline;
+    color: white;
+    text-decoration: none;
+    block-size: 300px;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+    width: 500px;
+    background-position: 50%, 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    margin: -30px 0px 0px 100px;
+    border-radius: 20px;
 }
+
+.recipe-2 a {
+    background-image: url("https://casuallypeckish.com/wp-content/uploads/2020/09/680-x-900-14.png");
+    display: inline;
+    color: white;
+    text-decoration: none;
+    block-size: 300px;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+    width: 500px;
+    background-position: 50%, 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    margin: -30px 0px 0px 200px;
+    border-radius: 20px;
+}
+
+.recipe-3 a {
+    background-image: url("https://kanamit.com.ph/cdn/shop/products/04-porkchop.jpg?v=1678151214");
+    display: inline;
+    color: white;
+    text-decoration: none;
+    block-size: 300px;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+    width: 500px;
+    background-position: 50%, 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    margin: -30px 0px 0px 300px;
+    border-radius: 20px;
+}
+
+.recipe-4 a {
+    background-image: url("https://media.blueapron.com/culinary/recipe/49485/square_image/9d06c61e2ec5fb30621c2c94e6542dd7.jpg?format=pjpg&quality=80&width=1300");
+    display: inline;
+    color: white;
+    text-decoration: none;
+    block-size: 300px;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+    width: 500px;
+    background-position: 50%, 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    margin: -30px 0px 0px 400px;
+    border-radius: 20px;
+}
+
+.recipe-5 a {
+    background-image: url("https://cdn.loveandlemons.com/wp-content/uploads/2014/10/vegetable-soup.jpg");
+    display: inline;
+    color: white;
+    text-decoration: none;
+    block-size: 300px;
+    justify-content: center;
+    background-size: cover;
+    height: 300px;
+    width: 500px;
+    background-position: 50%, 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    margin: -30px 0px 0px 500px;
+    border-radius: 20px;
+}
+
