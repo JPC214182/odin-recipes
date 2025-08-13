@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.background {
+    background-image: url(./recipes/food.jpg);
+    align-items: center;
+    justify-items: center;
+    height: 600px;
+    padding: 350px;
+    font-size: 40px;
+    color: rgb(102, 2, 22);
+}
+
+ul li {
+    display: inline-block;
+}
