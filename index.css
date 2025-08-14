@@ -124,6 +124,24 @@ body {
     color: black;
 }
 
+.next a {
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+
+.previous a {
+    text-decoration: none;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+
 
 .recipeCard {
     margin: 48px 324px;
